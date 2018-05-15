@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="edit_message">Password</string>
+    <string name="button_submit">SUBMIT</string>
+    <string name="plain_text">Enter your password to download the build</string>
+    <string name="copyright">© BetaCrash 2018 - Solution powered by Plus QA</string>
+</resources>
